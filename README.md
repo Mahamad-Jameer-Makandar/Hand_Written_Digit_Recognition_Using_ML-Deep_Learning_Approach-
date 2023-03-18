@@ -1,6 +1,6 @@
 # Hand_Written_Digit_Recognition_Using_ML-Deep_Learning_Approach-
 
-Project Title: Handwritten Digit Recognition using Deep Learning
+Project Title: Handwritten Digit Recognition using ML (Deep Learning Approach)
 
 Project Description:In this project, I developed a deep learning model for recognizing handwritten digits using the MNIST dataset. The goal was to build an accurate and efficient model that could recognize handwritten digits with high precision.To achieve this, I used a deep learning framework and created a convolutional neural network (CNN) architecture. The model consisted of multiple layers of convolution, pooling, and fully connected layers. I used the MNIST dataset to train and test the model, which contains 70,000 handwritten digit images, each of size 28 x 28 pixels.
 I trained the model for 10 epochs and achieved an accuracy of 75%. To improve the accuracy, I experimented with different hyperparameters and tuned the model accordingly. I also used data augmentation techniques such as rotation, zooming, and shifting to increase the size of the training data and reduce overfitting.
